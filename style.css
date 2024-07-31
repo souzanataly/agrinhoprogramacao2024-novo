@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.main-image {
+    /* Estilos para a imagem principal das casas de campo */
+}
+
+.description {
+    padding: 20px;
+}
+.features {
+    /* Estilos para os ícones das acomodações, atividades ao ar livre e gastronomia */
+}
+
+.gallery {
+    /* Estilos para a galeria de imagens com quartos, atividades e gastronomia */
+}
